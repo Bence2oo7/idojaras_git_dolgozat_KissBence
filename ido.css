@@ -56,9 +56,9 @@ input
 }
 h1{
 	color: #243f84;
-	font-size: large;
+	text-transform:uppercase
 }
 h2{
 	color: #243f84;
-	font-size: large;
+	text-transform:uppercase
 }
