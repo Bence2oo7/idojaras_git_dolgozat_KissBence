@@ -73,3 +73,9 @@ table{
 td{
 	border-width: 3px;
 }
+.szurke{
+	text-transform: lowercase;
+	text-align: center;
+	color: #808183;
+	text-decoration: double;
+}
