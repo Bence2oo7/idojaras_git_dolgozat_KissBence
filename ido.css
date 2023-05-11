@@ -78,6 +78,7 @@ td{
 	text-align: center;
 	color: #808183;
 	text-decoration: double;
+	font-weight: bold;
 }
 li{
 	list-style-image: url(nap.png);
@@ -90,4 +91,12 @@ dt{
 #fel{
 	float: right;
 	width: 5vw;
+}
+input
+{
+	font-size:medium;
+	margin-top:2%;
+}
+.felkover{
+    font-weight: bold;
 }

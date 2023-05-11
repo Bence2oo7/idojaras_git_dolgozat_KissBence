@@ -57,9 +57,12 @@
     <a href="https://www.met.hu" target="_blank" class="szurke"> Forrás: www.met.hu </a>
 
         <h2>Hőingás kiszámítása</h2>
-        A mai legalacsonyabb hőmérésklet: 
-        A mai legmagasabb hőmérésklet: 
-        
+        <form>
+            <label for="min">A mai legalacsonyabb hőmérésklet:</label> <input id="min" type="number"> <br>  
+            <label for="max">A mai legmagasabb hőmérésklet:</label> <input id="max" type="number"> <br>  
+            <input type="button" value="Számolj!" onclick="szamol();">     <br>
+            <p class="felkover">A mai hőingás: <span id="hoingas"></span> &#8451; volt. </p>  
+            </form> 
         <https://met.hu/eghajlat/magyarorszag_eghajlata/eghajlati_visszatekinto/elmult_evek_idojarasa/>
         
     </div>
