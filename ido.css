@@ -68,4 +68,8 @@ table{
     margin: 0 auto;
     padding: 0px;
 	text-align: center;
+	width: 80%;
+}
+td{
+	border-width: 3px;
 }
