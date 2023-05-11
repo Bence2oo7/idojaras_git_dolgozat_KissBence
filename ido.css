@@ -100,3 +100,4 @@ input
 .felkover{
     font-weight: bold;
 }
+input:focus  { background: #808183; } 
